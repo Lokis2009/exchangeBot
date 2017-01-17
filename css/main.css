@@ -1,0 +1,54 @@
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\000031}}
+body {
+  font-family: "Raleway", sans-serif;
+  font-weight: normal;
+  font-size: 14px;
+  min-width: 320px;
+  position: relative;
+  line-height: 1.42857;
+  -webkit-font-smoothing: antialised; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000310}}
+body input:focus:required:invalid,
+body textarea:focus:required:invalid {
+  color: red; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000313}}
+body input:required:valid,
+body textarea:required:valid {
+  color: green; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000317}}
+.hidden {
+  display: none; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000320}}
+body {
+  background: url(../img/currency-exchange.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000328}}
+.panel-default {
+  opacity: 0.9;
+  margin-top: 30px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000332}}
+.form-group.last {
+  margin-bottom: 0px; }
+
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000335}}
+.jumbo {
+  background-color: rgba(84, 145, 91, 0.7);
+  color: #fff;
+  font-family: "Roboto Slab", serif; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000339}}
+  .jumbo h1 {
+    text-align: center; }
+@media -sass-debug-info{filename{font-family:file\:\/\/D\:\/Git\/exchangeBot\/css\/sass\/main\.sass}line{font-family:\0000341}}
+  .jumbo p {
+    text-align: center; }
+
+/*# sourceMappingURL=main.css.map */
